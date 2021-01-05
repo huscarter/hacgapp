@@ -1,0 +1,10 @@
+{
+  "color":"color",
+  "@color":{
+    "description":"The name of test content color."
+  },
+  "timePicker":"time picker",
+  "@timePicker":{
+    "description":"The content of the butter for picker time"
+  }
+}

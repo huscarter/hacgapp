@@ -1,0 +1,3 @@
+# hacgapp
+
+自己写的一个hacg的Android和iOS客户端，本人不将此app发布到Android和iOS应用市场。此项目只用于自我学习flutter和方便浏览hacg信息。
