@@ -1,10 +1,30 @@
 {
-  "color":"color",
-  "@color":{
-    "description":"The name of test content color."
+  "color": "color",
+  "@color": {
+    "description": "The name of test content color."
   },
-  "timePicker":"time picker",
-  "@timePicker":{
-    "description":"The content of the butter for picker time"
+  "timePicker": "time picker",
+  "@timePicker": {
+    "description": "The content of the butter for picker time"
+  },
+  "newest": "newest",
+  "@newest": {
+    "description": "The name of the newest item."
+  },
+  "animation": "animation",
+  "@animation": {
+    "description": ""
+  },
+  "threeDimension": "3dimension",
+  "@threeDimension": {
+    "description": ""
+  },
+  "game": "game",
+  "@game": {
+    "description": ""
+  },
+  "other": "other",
+  "@other": {
+    "description": ""
   }
 }

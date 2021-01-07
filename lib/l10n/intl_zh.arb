@@ -1,4 +1,9 @@
 {
-  "color":"颜色",
-  "timePicker":"选择时间"
+  "color": "颜色",
+  "timePicker": "选择时间",
+  "newest": "最新",
+  "animation": "动漫",
+  "3dimension": "3次元",
+  "game": "游戏",
+  "other": "其他"
 }
